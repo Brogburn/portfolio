@@ -36,8 +36,8 @@ jobs:
       - name: Prepare site
         run: |
           mkdir site
-          cp -r views/* site/
-          cp -r resources site/
+          cp -r docs/views/* site/
+          cp -r docs/resources site/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
