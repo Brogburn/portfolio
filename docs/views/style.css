@@ -32,8 +32,8 @@ span{
     color: yellow;
 }
 
-#imgBody{
-	background-image: url("docs/resources/img/stars.jpg"); 
+#imgbody{
+	background-image: url("resources/img/stars.jpg"); 
 	background-attatchment: fixed;
 	background-size: cover;
 }
