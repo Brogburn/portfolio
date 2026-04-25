@@ -32,7 +32,6 @@ span{
     color: yellow;
 }
 #imgbody{
-	background-color: rgb(100,100,100);
     background-image: url("resources/img/stars.jpg"); 
     background-attachment: fixed; 
     background-size: cover;
