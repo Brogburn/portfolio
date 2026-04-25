@@ -16,11 +16,11 @@ footer{
    bottom: 0;
    width: 100%;
    text-align: center;
-   background-color: rgb(182, 189, 139);
+   background-color: rgb(178, 184, 135);
     color: rgb(76, 175, 207);
 }
 .card{
-    background-color: rgb(72, 132, 61);
+    background-color: rgb(178, 184, 135);
 }
 .r {
 	display: inline-block;
