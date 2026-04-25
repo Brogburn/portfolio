@@ -1,6 +1,6 @@
-/*body{
+body{
     background-color: rgb(182, 189, 139);
-} */
+}
 h1{
     color: black;
 }
@@ -32,8 +32,8 @@ span{
     color: yellow;
 }
 
-body{
-	background-image: url("resources/img/stars.jpg"); 
-	background-attatchment: fixed;
-	background-size: cover;
+#imgbody{
+    background-image: url("resources/img/stars.jpg"); 
+    background-attachment: fixed; 
+    background-size: cover;
 }
