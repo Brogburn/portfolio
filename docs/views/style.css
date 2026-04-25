@@ -21,6 +21,7 @@ footer{
 }
 .card{
     background-color: rgb(169, 174, 126);
+	height: 900px;
 }
 .r {
 	display: inline-block;
