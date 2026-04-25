@@ -33,7 +33,7 @@ span{
 }
 
 #imgBody{
-	background-image: url("resources\img\stars.jpg");
-	backgroun-attatchment: fixed;
+	background-image: url("resources\img\stars.jpg"); 
+	background-attatchment: fixed;
 	background-size: cover;
 }
