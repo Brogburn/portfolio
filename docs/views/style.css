@@ -16,11 +16,11 @@ footer{
    bottom: 0;
    width: 100%;
    text-align: center;
-   background-color: rgb(178, 184, 135);
+   background-color: rgb(169, 174, 126);
     color: rgb(76, 175, 207);
 }
 .card{
-    background-color: rgb(178, 184, 135);
+    background-color: rgb(169, 174, 126);
 }
 .r {
 	display: inline-block;
@@ -31,3 +31,8 @@ span{
     color: yellow;
 }
 
+#imgBody{
+	background-image: url("resources\img\BfemybeKVXCf9pgX9WCxsc-1200-80.jpg");
+	backgroun-attatchment: fixed;
+	background-size: cover;
+}
